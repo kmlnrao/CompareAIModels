@@ -48,3 +48,4 @@ Happy Hacking!
 [Streamlit API Reference](https://docs.streamlit.io/develop/api-reference)
 
 [Groq API Reference](https://console.groq.com/docs/overviewe)
+"# compareai" 
