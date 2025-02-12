@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-client = Groq(api_key=st.secrets.get("GROQ_API_KEY"))
+client = Groq(api_key="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")
 
 st.title("Compare AI Models", anchor=False)
 st.subheader("Compare AI Models Side-by-Side", anchor=False, divider="blue")
